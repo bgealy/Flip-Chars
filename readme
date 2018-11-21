@@ -1,0 +1,11 @@
+// This program is designed to take a string
+// split up by character pairs
+// then reverse the pairs 
+// and join them back together ---
+
+// Breaking this example down piece by piece:
+// 'a sho' -> 'ohs a'
+// 'rt ex' -> 'xe tr'
+// 'ample' -> 'elpma'
+
+// -> 'ohs axe trelpma'
